@@ -1,0 +1,6 @@
+*.dart linguist-language=Dart
+
+*.md linguist-documentation
+*.jpg linguist-vendored
+*.png linguist-vendored
+
