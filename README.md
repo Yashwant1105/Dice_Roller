@@ -1,16 +1,37 @@
-# first_app
+# **📌 Dice Roller - Flutter App**  
+🎲 A simple Dice Roller app built using **Flutter** that generates a random dice face on button click.  
 
-A new Flutter project.
+---
 
-## Getting Started
+## **🚀 Features**
+✅ Roll a dice with a single tap  
+✅ Smooth animations  
+✅ Gradient background  
+✅ Minimal and clean UI  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## **🛠️ Technologies Used**
+- **Flutter** (Dart)  
+- **Material Design**  
+- **Random Number Generator (dart:math)**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **📦 Setup & Installation**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/Yashwant1105/Dice_Roller.git
+cd Dice_Roller
+```
+
+### **2️⃣ Install Dependencies**
+```sh
+flutter pub get
+```
+
+### **3️⃣ Run the App**
+```sh
+flutter run
+```
+
